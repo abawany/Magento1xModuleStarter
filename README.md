@@ -2,7 +2,7 @@
 ## by Ali Bawany
 
 ## Summary:
-This simple PHP script, run from a command line, will enabled you to create the basic directory structure for a Magento 1.x module within a running Magento instance. If things work well, your running Magento instance will show the module as follows:
+This simple PHP script, run from a command line, will enable you to create the basic directory structure for a Magento 1.x module within a running Magento instance. If things work well, your running Magento instance will show the module as follows:
 * Go to Magento Admin
 * Navigate to System -> Configuration -> Advanced
 * Expand "Disable Modules Output" table and search for your defined module within the list
